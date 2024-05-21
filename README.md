@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Sibananda Nayak</p>
+<h1 align="center">Hi 👋, I'm Sibananda Nayak</h1>
 
 ###
 

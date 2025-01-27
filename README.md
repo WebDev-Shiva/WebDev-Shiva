@@ -39,7 +39,7 @@
   <a href="https://twitter.com/Sibanan88278956" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <a href="https://discord.com/sibanandanayak" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.youtube.com/channel/UCtaRTB3MGEasKxN-nQRitug" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://instagram.com/warrior_shiva" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="warrior_shiva" height="40" width="52" /></a>
+  <a href="https://instagram.com/warrior__shiva" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="warrior_shiva" height="40" width="52" /></a>
 </div>
 
 ###
